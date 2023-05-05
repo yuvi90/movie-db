@@ -1,8 +1,8 @@
-export default function Home() {
+export default function Upcoming() {
   return (
     <main>
       <h1 className="text-3xl font-bold underline">
-        Home Page
+        Upcoming Page
       </h1>
     </main>
   )

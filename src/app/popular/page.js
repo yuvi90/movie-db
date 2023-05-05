@@ -1,8 +1,8 @@
-export default function Home() {
+export default function Popular() {
   return (
     <main>
       <h1 className="text-3xl font-bold underline">
-        Home Page
+        Popular Page
       </h1>
     </main>
   )
